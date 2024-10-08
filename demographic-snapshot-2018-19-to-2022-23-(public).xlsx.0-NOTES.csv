@@ -1,0 +1,33 @@
+"Demographic Snapshot – Citywide, Borough, District, and School"
+"SY 2018-19 to 2022-23 -- All Grades"
+Notes
+"Enrollment counts are based on the October 31 Audited Register for the 2018-19, 2019-20, and 2022-23 school years. To account for the delay in the start of the school year, enrollment counts are based on the November 13 Audited Register for 2020-21 and the November 12 Audited Register for 2021-22. 
+   * Please note that October 31 (and November 12-13) enrollment is not audited for charter schools or Pre-K Early Education Centers (NYCEECs). Charter schools are required to submit enrollment as of BEDS Day, the first Wednesday in October, to the New York State Department of Education."
+"Enrollment counts in the Demographic Snapshot will likely exceed operational enrollment counts due to the fact that long-term absence (LTA) students are excluded for funding purposes."
+"Data on students with disabilities, English Language Learners, students' povery status, and students' Economic Need Value are as of the June 30 for each school year except in 2022-23. Data on SWDs, ELLs, Poverty, and ENI in the 2022-23 school year are as of March 14, 2023."
+"3-K and Pre-K enrollment totals include students in both full-day and half-day programs."
+"All schools listed are as of the 2022-23 school year. Schools closed before 2022-23 are not included in the school level tab but are included in the data for citywide, borough, and district. Programs and Pre-K NYC Early Education Centers (NYCEECs) are not included on the school-level tab."
+"Due to missing demographic information in rare cases at the time of the enrollment snapshot, demographic categories do not always add up to citywide totals."
+"Students with disabilities are defined as any child receiving an Individualized Education Program (IEP) as of the end of the school year (or March 14 for 2022-23)."
+"NYC DOE ""Poverty"" counts are based on the number of students with families who have qualified for free or reduced price lunch, or are eligible for Human Resources Administration (HRA) benefits. In previous years, the poverty indicator also included students enrolled in a Universal Meal School (USM), where all students automatically qualified, with the exception of middle schools, D75 schools and Pre-K centers. In 2017-18, all students in NYC schools became eligible for free lunch. In order to better reflect free and reduced price lunch status, the poverty indicator does not include student USM status, and retroactively applies this rule to previous years. "
+"The school’s Economic Need Index is the average of its students’ Economic Need Values. The Economic Need Index (ENI) estimates the percentage of students facing economic hardship. The 2014-15 school year is the first year we provided ENI estimates. The metric is calculated as follows:
+   * The student’s Economic Need Value is 1.0 if:
+         o The student is eligible for public assistance from the NYC Human Resources Administration (HRA);
+         o The student lived in temporary housing in the past four years; or
+         o The student is in high school, has a home language other than English, and entered the NYC DOE for the first time within the last four years.
+   * Otherwise, the student’s Economic Need Value is based on the percentage of families (with school-age children) in the student’s census tract whose income is below the poverty level, as estimated by the American Community Survey 5-Year estimate (2020 ACS estimates were used in calculations for 2021-22 ENI). The student’s Economic Need Value equals this percentage divided by 100.
+
+Due to differences in the timing of when student demographic, address and census data were pulled, ENI values may vary, slightly, from the ENI values reported in the School Quality Reports.
+
+In previous years, student census tract data was based on students’ addresses at the time of ENI calculation. Beginning in 2018-19, census tract data is based on students’ addresses as of the Audited Register date of the given school year. 
+
+In previous years, the most recent new entry date was used for students with multiple entry dates into the NYCDOE. Beginning in 2018-19, students’ earliest entry date is used in ENI calculations.
+
+Beginning in 2018-19, students missing ENI data are imputed with the average ENI at their school.
+"
+"In order to maintain student privacy,  schools with % Poverty and ENI values below 5% or above 95% have had their exact values for each category replaced with ""Below 5%"" and ""Above 95%"", respectively."
+"Before the start of the 2017-18 school year, the New York State Education Department implemented a new data matching process that refined the methods to identify families eligible for free lunch. This new matching system provides a more efficient and accurate process for matching students across a range of forms that families already complete. This new matching process yielded an increase in the number of students directly certified for free lunch (in other words, matched to another government program) and therefore increased the direct certification rate. As such, the increase in the percent of students in poverty and the Economic Need Index for the 2017-18 school year and later reflects this new matching process, which allows the City to better identify students eligible for free lunch."
+"Approximately 25% of charter schools in NYC do not use NYC DOE School Food to provide meal services. The NYC DOE Office of School Food does not collect documentation on students’ eligibility for Free or Reduced Price Lunch from schools that do not utilize NYC DOE School Food. As a result, the Poverty figures may be understated for approximately 25% of charter schools. "
+"The Citywide wo Charter Schools and Borough wo Charter Schools tabs include data by school year for non-charter NYC public schools. "
+"New York State Education Department begins administering assessments to be identified as an English Language Learner (ELL) in Kindergarten, but students in Pre-K are still included in the denominator for the ELL calculations. Also, Pre-K NYC Early Education Centers  do not use NYC DOE School Food to provide meal services, but are included in the denominator for Poverty calculations. "
+"version June 7, 2023"
