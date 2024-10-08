@@ -43,3 +43,5 @@ fi
 # NOTES according to https://www.nysed.gov/news/2023/state-education-department-releases-spring-2019-grades-3-8-ela-math-assessment-results#:~:text=Big%205%20City%20School%20Districts&text=In%20ELA%20in%202019%2C%20New,compared%20with%2046.7%20percent%20statewide.
 # In ELA in 2019, New York City exceeded the statewide proficiency rate by 2 percent, with 47.4 of students achieving proficiency, compared with 45.4 percent statewide. 
 # 47.4 - (.1*47.4) = 42.66
+
+# Answer link: https://docs.google.com/spreadsheets/d/e/2PACX-1vTKRNbnBzeTly6aa14R7YIJWjOli8iX5kCe_hHJZ-zeAfZXPGgd00dn0eNExUNftit2n2UBSau8ECBJ/pubhtml?gid=2047448481&single=true
