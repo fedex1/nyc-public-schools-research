@@ -1,0 +1,41 @@
+﻿Analyst Task 
+ 
+You will have 24 hours to complete Part I and Part II of this task. Please reach out with any questions you have about it.  
+ 
+Please complete the task in Excel or any statistical platform (optional) of your choosing. In this task we are measuring your ability to review the data and clearly articulate your findings. 
+
+
+You may use whatever resources you wish on the internet, except for those involving help from live people such as chatting or posting on a forum. You should assume that your audience is somewhat familiar with K-12 education in New York City, but do not necessarily have any specific training in statistics. All data provided is publicly available on the NYCDOE website.  
+
+
+Please note that the two tasks are distinct and do not have to be connected for your final dataset (Part I) and deck (Part II). 
+ 
+Part I: Library Makeover (Expected time: 1 hour) 
+ 
+A foundation is working with the Department of Education to choose a library in Brooklyn to make over. The grant aims to identify low-performing schools in Brooklyn with a high percentage of students in poverty.  
+
+
+Develop and provide a list of potential candidate schools based on the requirements in the grant. 
+Additionally, please provide the steps you took to develop the list of schools.
+ 
+Qualifying schools must:  
+* Have 2019 3rd grade ELA proficiency rates as measured by state tests that are equal to or lower than 10 percentage points below the city average ELA proficiency rate in 2019 (ELA proficiency is defined as scoring a level 3 or 4 on the exam) 
+* Have at least 80% of their students categorized as living in poverty  
+* Be located in the borough of Brooklyn 
+* Not be part of a special district (District 75 or 79) 
+Files provided to complete this task (also enclosed in your email instructions)
+* School ELA Results 2013-2023
+* Demographic Snapshot 2018-19 to 2022-23  
+ 
+Additional Information: 
+* Under the school field is a list of DBNs, or unique school codes. The first two characters are the district number, the third character is the borough (Brooklyn is K), and the last three characters are the school’s number.  For example, 22K194, is a school in District 22 in Brooklyn whose number is 194 (i.e., P.S. 194) 
+* Exclude all schools in District 75 and District 79 
+________________
+
+
+Part II: English Language Assessment Scores over Time (Expected time: 1.5 hour) 
+ 
+For a related grant, the foundation is interested in identifying whether or not schools with large populations of English Language Learners show significantly more or less growth over time in English Language Assessment (ELA) proficiency rates than schools with fewer English Language Learners.  Design and conduct an analysis (using the same two datasets) to address the above question. 
+ 
+Put together a short deck that you would present to the foundation to share your analysis.
+If you are invited to a follow up interview, be prepared to present your deck (5 minutes maximum) and answer follow up questions regarding your analysis. Additionally, please separately provide code you wrote, steps you took, and assumptions you made as a part of the analysis.
