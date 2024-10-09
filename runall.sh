@@ -45,3 +45,20 @@ fi
 # 47.4 - (.1*47.4) = 42.66
 
 # Answer link: https://docs.google.com/spreadsheets/d/e/2PACX-1vTKRNbnBzeTly6aa14R7YIJWjOli8iX5kCe_hHJZ-zeAfZXPGgd00dn0eNExUNftit2n2UBSau8ECBJ/pubhtml?gid=2047448481&single=true
+
+
+
+# PART 2
+
+
+# Part II: English Language Assessment Scores over Time (Expected time: 1.5 hour) 
+#  
+# For a related grant, the foundation is interested in identifying whether or not schools with large populations of English Language Learners show significantly more or less growth over time in English Language Assessment (ELA) proficiency rates than schools with fewer English Language Learners.  Design and conduct an analysis (using the same two datasets) to address the above question. 
+#  
+# Put together a short deck that you would present to the foundation to share your analysis.
+# If you are invited to a follow up interview, be prepared to present your deck (5 minutes maximum) and answer follow up questions regarding your analysis. Additionally, please separately provide code you wrote, steps you took, and assumptions you made as a part of the analysis.
+
+# The average English Language Learners population / Non English Language Learners ratio for school year 2018-2019 is ~.137   We will take larger than a ratio of .15 as the starting point for large population but this can be a variable.
+
+# Answer link: https://docs.google.com/spreadsheets/d/e/2PACX-1vTod0_AkHQyVDGWekZbxyq2BSVnOjT7e84fZgdFaLZRQ9tHFux76OT58kaNIR53r2k42sE_PQqpFcWN/pubhtml?gid=2102999706&single=true
+
